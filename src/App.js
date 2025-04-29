@@ -3,7 +3,6 @@
 // Description included in-game as requested
 
 import React, { useEffect, useRef, useState } from 'react';
-import { motion } from 'framer-motion';
 import './App.css';
 
 const PADDLE_WIDTH = 20;
