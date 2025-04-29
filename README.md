@@ -1,4 +1,4 @@
-# 🏓 PicklePong: Retro Rallies, Fresh Spin 🥒
+# PicklePong: Retro Rallies, Fresh Spin
 
 Crank up the 8-bit tunes and dust off your tube socks—**Picklepong** is here to serve that groovy '70s arcade energy with a tangy twist.
 
@@ -6,11 +6,11 @@ Inspired by the legendary Pong, this game brings pixel-perfect paddle play into 
 
 Whether you're reliving the glory days or discovering the magic of paddle battles for the first time, Picklepong’s neon-soaked nostalgia, chunky sound effects, and no-frills fun will have you hooked faster than you can say “Atari who?”
 
-**🎮 One part pong, one part pickleball, all parts awesome.**
+** One part pong, one part pickleball, all parts awesome.**
 
 ---
 
-## 🔧 How to Run Locally
+##  How to Run Locally
 
 1. Clone the repo  
 2. Install dependencies:  
@@ -18,9 +18,9 @@ Whether you're reliving the glory days or discovering the magic of paddle battle
 
 ---
 
-## 🚀 How to Deploy to Vercel
+##  How to Deploy to Vercel
 
-1. Go to [vercel.com](https://vercel.com)  
+1. Go to [vercel.com] 
 2. Connect your GitHub account  
 3. Import this repo  
 4. Click **Deploy**
@@ -29,7 +29,7 @@ That’s it! You’ll get a live URL to play and share.
 
 ---
 
-## 🖼️ Customize Assets
+##  Customize Assets
 
 Add your own images/sounds into the `public/` folder:
 - `/pickle-paddle.png` – cartoon pickle paddle  
@@ -38,4 +38,4 @@ Add your own images/sounds into the `public/` folder:
 
 ---
 
-Built with ❤️ by Melissa Datre
+Built by Melissa Datre
