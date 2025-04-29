@@ -1,0 +1,16 @@
+{
+  "name": "picklepong",
+  "version": "1.0.0",
+  "description": "Picklepong: Retro Rallies, Fresh Spin",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "framer-motion": "^10.12.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  }
+}
